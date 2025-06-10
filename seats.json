@@ -1,0 +1,5 @@
+"seats": {
+    "1": { "booked": false },
+    "2": { "booked": true },
+    "3": { "booked": false }
+}
